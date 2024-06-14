@@ -650,12 +650,12 @@ a:focus {
 }
 
 .contact_section .contact_form-container input:-ms-input-placeholder {
-  color: #000000;
+  color: #9e4f4f;
   text-transform: uppercase;
 }
 
 .contact_section .contact_form-container input::-ms-input-placeholder {
-  color: #000000;
+  color: #cec7c7;
   text-transform: uppercase;
 }
 
@@ -692,8 +692,8 @@ a:focus {
 
 .contact_section .contact_form-container button:hover {
   background-color: transparent;
-  border-color: #f1db25;
-  color: #f1db25;
+  border-color: #4e2653;
+  color: #371042;
 }
 
 .contact_bg_box {
