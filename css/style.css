@@ -721,7 +721,7 @@ a:focus {
 
 .contact_bg_box .img-box img {
   min-width: 100%;
-  min-height: 100%;
+  min-height: 100%; 
 }
 
 .contact_bg_box::before {
@@ -747,7 +747,7 @@ a:focus {
   overflow: hidden;
   margin-top: 45px;
   position: relative;
-}
+} 
 
 .team_section .box .img-box {
   width: 100%;
