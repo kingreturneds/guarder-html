@@ -204,7 +204,7 @@ body {
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-  background-color: #1c1c1c;
+  background-color: #363536;
 }
 
 a,
@@ -470,7 +470,9 @@ a:focus {
 }
 
 .service_section {
-  background-color: #1c1c1c;
+  background-image: url(../images/realistic-digital-lavender-background_23-2150595015.jpg);
+ 
+  
 }
 
 .service_section .heading_container {
