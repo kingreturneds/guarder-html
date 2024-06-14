@@ -476,11 +476,11 @@ a:focus {
 }
 
 .service_section .heading_container {
-  color: #ffffff;
+  color: #fafafa;
 }
 
 .service_section .box {
-  background-color: #ffffff;
+  background-color: #8ae7eb; 
   padding: 25px 15px;
   text-align: center;
   -webkit-box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2);
